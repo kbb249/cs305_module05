@@ -34,3 +34,6 @@ If you're interested in contributing to the project, please follow these guideli
 
 ## License
 Feel free to adjust the content as needed for your project.
+
+
+this is what I am changing for Q7
